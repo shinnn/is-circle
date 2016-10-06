@@ -4,7 +4,7 @@
 [![Circle CI](https://circleci.com/gh/shinnn/is-circleci/tree/master.svg?style=svg)](https://circleci.com/gh/shinnn/is-circleci/tree/master)
 [![Build Status](https://travis-ci.org/shinnn/is-circleci.svg?branch=master)](https://travis-ci.org/shinnn/is-circleci)
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/is-circleci.svg)](https://coveralls.io/r/shinnn/is-circleci)
-[![devDependency Status](https://david-dm.org/shinnn/is-circleci/dev-status.svg)](https://david-dm.org/shinnn/is-circleci#info=devDependencies)
+[![devDependencies Status](https://david-dm.org/shinnn/is-circleci/dev-status.svg?style=flat-square)](https://david-dm.org/shinnn/is-circleci?type=dev)
 
 Check if a [Node](https://nodejs.org/) program is running on [CircleCI](https://circleci.com/)
 
